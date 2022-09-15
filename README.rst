@@ -1,49 +1,18 @@
+<!-- Continuous Improvement Programme - CIP -->
 
+### Hell Yeah !
 
-.. image:: haxor.png
-    :align: center
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shane+Jason+White;Entwicklerprogramm)](https://git.io/typing-svg)
 
----------------------
+<h3 align="center"> daily.dev </h3>
+</td>
+</div>
+<a href="https://app.daily.dev/MADMNZYRD"><img src="https://api.daily.dev/devcards/41a63172be8148bc889f28671fc829a8.png?r=uko" width="400" alt="Shane Jason White's Dev Card" /></a>
+<div class="wrapper">
 
-A Bootstrap theme for 1337 h4x0rs. Inspired by the classic green on black terminal style. This theme will make your website 1337.
+<h3 align="center"> [Cryptii](https://github.com/Cryptii) </h3>
 
-Check out the `example site <http://brobin.github.io/hacker-bootstrap/>`_!
+<div>
+<div class="pager-dark smbutton-curvy pp"><div class="text"><div class="h" align="center"><font size="4">Content Heading Here</font><hr></hr><div align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</div></div></div></div>
+</div>
 
------
-Usage
------
-
-You can pick up the latest `hacker.css <http://brobin.github.io/hacker-bootstrap/css/hacker.css>`_ and reference the css in your page.
-
-.. code-block:: html
-
-    <link href="css/hacker.css" rel="stylesheet">
-
-**Or** you could be a real h4x0r.
-
-**H4X0RS ONLY**
-
-Make sure you have bootstrap and less installed. Open up your h4x0r terminal and type the following:
-
-.. code-block:: bash
-
-    $ npm install bootstrap
-    $ npm install less
-
-Then compile by using the 1337 compile script:
-
-.. code-block:: bash
-
-    $ ./compile.sh
-
-------------
-Contributing
-------------
-
-Feel free to hack around and submit pull requests. Not every style is 100% comp1337, so any assistance is greatly appreciated.
-
--------
-License
--------
-
-MIT
