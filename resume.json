@@ -1,0 +1,65 @@
+{
+  "info": {
+    "name": "Shane White",
+    "summary": "With seven years of Web Developer experience, I have been focusing on front-end and WordPress development for the last three years."
+  },
+  "experience": [
+    {
+      "employer": "Intelechy Group",
+      "title": "Senior Web Developer",
+      "from": "October 2014",
+      "until": "Present",
+      "responsibilities": [
+        "Creation of single page application using KnockoutJS",
+        "Creation of web applications using VueJS",
+        "Integrating with external APIs such as Facebook, PayPal, and Google Maps.",
+        "Creation of responsive WordPress themes from PSDs.",
+        "Creation of custom functionality with WordPress plugins.",
+        "Use of responsive grid system.",
+        "Optimizing websites for performance.",
+        "Creation of time estimations for upcoming and prospective projects.",
+        "Interview and manage contractors.",
+        "Creation of new agency processes, including Git, website monitoring, and the usage of new tools such as Sass.",
+        "Writing technical blog entries and leading Lunch & Learns."
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "from": "June 2009",
+      "until": "October 2014",
+      "responsibilities": [
+        "Creation of learning management system using AngularJS",
+        "Writing cross browser responsive stylesheets",
+        "Participating with a team in the creation of a web-based learning management system.",
+        "Implementation of cross-browser audio plugin.",
+        "Creation of WordPress child themes.",
+        "Migration of WordPress sites.",
+        "Installation & configuration of WordPress eCommerce plugins.",
+        "Administration of WordPress sites."
+      ]
+    }
+  ],
+  "skills": [
+    "Writing scalable, well structured CSS/Sass for large websites and web applications.",
+    "Writing clean WordPress themes and plugins using WordPress best practices.",
+    "Writing landing pages that are blazing fast to reduce bounces and increase conversions.",
+    "Quality Assurance across multiple devices and browsers.",
+    "Integrating with external APIs.",
+    "Creating intuitive User Interface for both administrators and users.",
+    "Using git for version control."
+  ],
+  "technologies": [
+    "HTML5",
+    "CSS/Sass",
+    "Angular, React, & Vue",
+    "JavaScript",
+    "jQuery and jQuery Plugins",
+    "WordPress",
+    "NodeJS",
+    "PHP",
+    "Jekyll",
+    "Server administration",
+    "Laravel",
+    "WooCommerce"
+  ]
+}
