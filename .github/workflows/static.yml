@@ -4,8 +4,8 @@ name: Publish resume in JSONResume format as Github Page
  
 on:
   push:
-    branches: [ master ]
-
+    branches: [ master ] 
+    
 jobs:
   check_run:
     runs-on: ubuntu-latest
