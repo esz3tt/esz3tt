@@ -1,0 +1,492 @@
+{
+  "basics": {
+    "name": "Shane Jason White",
+    "label": "IT Support Engineer | DevOps | Systemintegrator | Professional",
+    "image": "https://avatars.githubusercontent.com/u/10331519?v=4",
+    "email": "shane-white@outlook.de",
+    "phone": "(+49) 176-8944-6968",
+    "url": "https://gitconnected.com/esz3tt/resume",
+    "summary": "A summary of Shane...",
+    "profiles": [
+      {
+        "network": "gitconnected",
+        "username": "esz3tt",
+        "url": "https://gitconnected.com/esz3tt"
+      },
+      {
+        "network": "GitHub",
+        "username": "esz3tt",
+        "url": "https://github.com/esz3tt"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shane-white1985/",
+        "username": "shane-white1985"
+      },
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/No1Onl1ne",
+        "username": "No1Onl1ne"
+      },
+      {
+        "network": "Reddit",
+        "url": "https://www.reddit.com/user/BananaFederal",
+        "username": "BananaFederal"
+      }
+    ],
+    "headline": "Inventive IT Systemintegrator | Support-Engineer with expert knowledge",
+    "blog": null,
+    "yearsOfExperience": 13,
+    "username": "esz3tt",
+    "locationAsString": "Kaiserslautern | Germany [DE]",
+    "region": "Kaiserslautern | Germany [DE]",
+    "karma": 25,
+    "id": "a6b6dd81-2ab1-4c2c-9f93-f7cb4da71c67",
+    "followers": 2,
+    "following": 25,
+    "picture": "https://avatars.githubusercontent.com/u/10331519?v=4",
+    "website": null
+  },
+  "skills": [
+    {
+      "name": "Server-Administration",
+      "level": "",
+      "keywords": [],
+      "rating": 0,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "Kundendienst",
+      "level": "",
+      "keywords": [],
+      "rating": 0,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "Remote Administration",
+      "level": "",
+      "keywords": [],
+      "rating": 0,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "Windows-Administration",
+      "level": "",
+      "keywords": [],
+      "rating": 0,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "Windows Desktop-Administration",
+      "level": "",
+      "keywords": [],
+      "rating": 0,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": [],
+      "rating": 0,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "TeamViewer",
+      "level": "",
+      "keywords": [],
+      "rating": 0,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "Systemadministration",
+      "level": "",
+      "keywords": [],
+      "rating": 0,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "Active Directory",
+      "level": "",
+      "keywords": [
+        "AAD",
+        "AD"
+      ],
+      "rating": 0,
+      "yearsOfExperience": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "github.io",
+      "description": "",
+      "url": "https://github.com/365Academic/github.io",
+      "highlights": [],
+      "keywords": [],
+      "roles": [],
+      "startDate": "2022",
+      "endDate": "2022",
+      "entity": "",
+      "type": "",
+      "displayName": "github.io",
+      "website": "",
+      "summary": "",
+      "primaryLanguage": "",
+      "languages": [],
+      "libraries": [],
+      "githubUrl": "https://github.com/365Academic/github.io",
+      "repositoryUrl": "https://github.com/365Academic/github.io",
+      "start": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "end": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "images": [],
+      "videos": []
+    },
+    {
+      "name": "skynet",
+      "description": "",
+      "url": "https://github.com/3ENOK/skynet",
+      "highlights": [],
+      "keywords": [],
+      "roles": [],
+      "startDate": "2022",
+      "endDate": "2022",
+      "entity": "",
+      "type": "",
+      "displayName": "skynet",
+      "website": "",
+      "summary": "Static Website Hosting",
+      "primaryLanguage": "HTML",
+      "languages": [
+        "HTML"
+      ],
+      "libraries": [],
+      "githubUrl": "https://github.com/3ENOK/skynet",
+      "repositoryUrl": "https://github.com/3ENOK/skynet",
+      "start": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "end": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "images": [],
+      "videos": []
+    },
+    {
+      "name": "esz3tt",
+      "description": "",
+      "url": "https://github.com/esz3tt/esz3tt",
+      "highlights": [],
+      "keywords": [],
+      "roles": [],
+      "startDate": "2022",
+      "endDate": "2050",
+      "entity": "",
+      "type": "",
+      "displayName": "esz3tt",
+      "website": "",
+      "summary": "GitHub Profile Page",
+      "primaryLanguage": "Less",
+      "languages": [
+        "Shell",
+        "Less"
+      ],
+      "libraries": [],
+      "githubUrl": "https://github.com/esz3tt/esz3tt",
+      "repositoryUrl": "https://github.com/esz3tt/esz3tt",
+      "start": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "end": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "images": [],
+      "videos": []
+    },
+    {
+      "name": "www",
+      "description": "",
+      "url": "https://github.com/Entwicklerprogramm/www",
+      "highlights": [],
+      "keywords": [],
+      "roles": [],
+      "startDate": "2022",
+      "endDate": "2050",
+      "entity": "",
+      "type": "",
+      "displayName": "www",
+      "website": "",
+      "summary": "Copyright © 2022 Entwicklerprogramm",
+      "primaryLanguage": "",
+      "languages": [],
+      "libraries": [],
+      "githubUrl": "https://github.com/Entwicklerprogramm/www",
+      "repositoryUrl": "https://github.com/Entwicklerprogramm/www",
+      "start": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "end": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "images": [],
+      "videos": []
+    }
+  ],
+  "work": [
+    {
+      "name": "Amazon",
+      "location": "Kaiserslautern, Rheinland-Pfalz, Deutschland",
+      "description": "",
+      "position": "Information Technology Support Engineer",
+      "url": "https://www.linkedin.com/company/amazon/",
+      "startDate": "2022-03-01",
+      "endDate": "2022-10-01",
+      "summary": "",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 2022,
+        "month": 3
+      },
+      "end": {
+        "year": 2022,
+        "month": 10
+      },
+      "company": "Amazon",
+      "website": "https://www.linkedin.com/company/amazon/"
+    },
+    {
+      "name": "Alcom GmbH",
+      "location": "Sankt Ingbert, Saarland, Deutschland",
+      "description": "",
+      "position": "IT-Techniker",
+      "url": "https://www.linkedin.com/company/alcom-gmbh/",
+      "startDate": "2019-07-01",
+      "endDate": "2020-04-01",
+      "summary": "",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 2019,
+        "month": 7
+      },
+      "end": {
+        "year": 2020,
+        "month": 4
+      },
+      "company": "Alcom GmbH",
+      "website": "https://www.linkedin.com/company/alcom-gmbh/"
+    },
+    {
+      "name": "Reboot GmbH",
+      "location": "Zweibrücken | Kaiserslautern | Mannheim",
+      "description": "",
+      "position": "System Engineer",
+      "url": "https://www.linkedin.com/company/reboot-gmbh/",
+      "startDate": "2018-02-01",
+      "endDate": "2018-05-01",
+      "summary": "",
+      "highlights": [
+        "Project John-Deere"
+      ],
+      "isCurrentRole": false,
+      "start": {
+        "year": 2018,
+        "month": 2
+      },
+      "end": {
+        "year": 2018,
+        "month": 5
+      },
+      "company": "Reboot GmbH",
+      "website": "https://www.linkedin.com/company/reboot-gmbh/"
+    },
+    {
+      "name": "FM-Computer KG",
+      "location": "Zweibrücken, Rheinland-Pfalz, Deutschland",
+      "description": "",
+      "position": "IT-Techniker",
+      "url": "https://fmcomputer.de",
+      "startDate": "2009-10-01",
+      "endDate": "2017-09-01",
+      "summary": "",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 2009,
+        "month": 10
+      },
+      "end": {
+        "year": 2017,
+        "month": 9
+      },
+      "company": "FM-Computer KG",
+      "website": ""
+    }
+  ],
+  "publications": [],
+  "education": [
+    {
+      "institution": "Technisch gewerbliches Berufsbildungszentrum 1 Saarbrücken",
+      "url": "https://tgbbz1.de/",
+      "area": "Netzwerk- und Systemadministration/Administrator",
+      "studyType": "Fachinformatiker/Systemintegration",
+      "startDate": "2009-12-01",
+      "endDate": "2012-12-01",
+      "score": "",
+      "courses": [],
+      "description": "",
+      "activities": "",
+      "start": {
+        "year": 2009,
+        "month": 12
+      },
+      "end": {
+        "year": 2012,
+        "month": 12
+      },
+      "website": "",
+      "gpa": ""
+    },
+    {
+      "institution": "Berufsbildende Schule Zweibrücken",
+      "url": "https://www.bbs-zw.de/",
+      "area": "Datenverarbeitung",
+      "studyType": "Staatlich geprüfter kaufmännischer Assistent für Datenverarbeitung",
+      "startDate": "2007-12-01",
+      "endDate": "2009-12-01",
+      "score": "",
+      "courses": [],
+      "description": "",
+      "activities": "",
+      "start": {
+        "year": 2007,
+        "month": 12
+      },
+      "end": {
+        "year": 2009,
+        "month": 12
+      },
+      "website": "",
+      "gpa": ""
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "languages": [
+    {
+      "language": "Deutsch",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Englisch",
+      "fluency": "Professional Working"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": ">_",
+      "reference": "[![CI](https://github.com/Entwicklerprogramm/.github/actions/workflows/CI.yml/badge.svg)](https://github.com/Entwicklerprogramm/.github/actions/workflows/CI.yml)\n"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "IBM Cloud Private - Foundation Technology",
+      "issuer": "IBM",
+      "date": "2022-04-23",
+      "url": "https://www.credly.com/badges/54e96530-c45b-4ac3-baf6-1f88307ae38e",
+      "summary": "",
+      "fullDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "website": ""
+    },
+    {
+      "name": "Enterprise Design Thinking - Team Essentials for AI",
+      "issuer": "IBM",
+
+      "summary": "",
+      "fullDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "website": ""
+    },
+    {
+      "name": "Enterprise Design Thinking Practitioner",
+      "issuer": "IBM",
+
+      "summary": "",
+      "fullDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "website": ""
+    },
+    {
+      "name": "Acer DSR",
+      "issuer": "Acer",
+
+      "summary": "",
+      "fullDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "website": ""
+    },
+    {
+      "name": "Fachliches Englisch/ Schwerpunkt Informationstechnik",
+      "issuer": "TGBBZ1 Saarbrücken ",
+
+      "summary": "",
+      "fullDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "website": ""
+    },
+    {
+      "name": "WISDOM | Grundlagen der Kryptografie",
+      "issuer": "TGBBZ1 Saarbrücken",
+
+      "summary": "",
+      "fullDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "website": ""
+    }
+  ],
+  "meta": {
+    "note": "This is a combined version of the old and new JSON Resume API to provide maximum compatibility. You will notice duplicated values in different fields.",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2020-12-29T15:53:00"
+  }
+}
