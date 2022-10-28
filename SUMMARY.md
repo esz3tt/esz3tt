@@ -1,7 +1,7 @@
 # Table of contents
 
 * [KNOWLAGEBASE](README.md)
-* [Page 1](page-1.md)
+* [🏴 GitHub Profile](github-profile.md)
 
 ## 📄 My Resume
 
