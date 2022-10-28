@@ -1,5 +1,5 @@
 =========
-ENTWICKLERPROGRAMM
+Shane Jason White
 =========
 
 .. image:: https://avatars.githubusercontent.com/u/10331519?s=96&v=4
