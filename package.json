@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "less": "^4.1.3"
+  }
+}
