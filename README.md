@@ -8,7 +8,7 @@ coverY: 0
 Copyright © 2019-2021 Shane Jason White
 
 |   | this.chars = '☠!<>-\_\\\\/\[]{}—=+\*^?#\_\_\_\_\_\_\_\_';                                                                                                                                                                                                                                                                           |
-                                                                                                                                            |
+|   |                                                                                                                                                               |
 |   | 'Shane White',                                                                                                                                                                                                                                                                                                                      |
 |   | 'cqrCyber / cc',                                                                                                                                                                                                                                                                                                                    |
 |   | 'tools\ related to Cyber',                                                                                                                                                                                                                                                                                                          |
