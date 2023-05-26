@@ -13,6 +13,6 @@ entwicklerprogramm@pm.me                                                        
 
 {% embed url="https://codepen.io/esz3tt/pen/GRxYWdK" %}
 
-{% embed <a href="https:///pr.new/___GH_ACCOUNT__/___GH_REPOSITORY___"> <img alt="Open in Codeflow" src="https://developer.stackblitz.com/img/open_in_codeflow.svg" /> </a> %}
+<a href="https:///pr.new/___GH_ACCOUNT__/___GH_REPOSITORY___"> <img alt="Open in Codeflow" src="https://developer.stackblitz.com/img/open_in_codeflow.svg" /> </a>
 
     
