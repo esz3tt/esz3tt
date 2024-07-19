@@ -1,8 +1,7 @@
 ---
 
 description: IT | Support | DevOps | Engineering | Administration
-cover: .gitbook/assets/wallhalla-QOyPv5xhrGg.jpg
-coverY: 0
+
 
 ---
 <h2 align="left">Hi 👋! My name is Shane White and I'm a IT Expert, from Kaiserslautern [DE].</h2>
@@ -134,7 +133,10 @@ coverY: 0
 # KNOWLAGEBASE
 Copyright © 2019-2021 Shane Jason White
 
-entwicklerprogramm@pm.me                                                                                                                                       |
+entwicklerprogramm@pm.me                                              <a href="https://app.gitbook.com/o/zzkKg0SwR7aSz3yYPcIP/s/JfuVs3cOpDdk0exmkZmR/"
+
+
+</a>                                                            |
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
